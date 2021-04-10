@@ -114,7 +114,7 @@ static const char *colorname[] = {
 /* ! Dracula Xresources palette */
  "#F8F8F2",
  "#282A36",
- "#000000",
+ "#BD93F9",
  "#4D4D4D",
  "#FF5555",
  "#FF6E67",
